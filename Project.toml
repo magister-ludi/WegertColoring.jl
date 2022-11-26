@@ -1,0 +1,7 @@
+name = "WegertColoring"
+uuid = "7314134d-3815-44ec-866f-de3f45884ce0"
+authors = ["Michael Oldfield <magister_ludi_github@yahoo.com.au>"]
+version = "0.1.0"
+
+[deps]
+ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
