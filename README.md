@@ -11,6 +11,9 @@ in his book
 Wegert's book describes several schemes for mapping phase to colors. This package provides
 code to reproduce the schemes with Julia.
 
+A progect with a similar goal is
+[ComplexPhasePortrait.jl](https://github.com/JuliaHolomorphic/ComplexPhasePortrait.jl).
+
 ## Methods
 
     zdomain(zll = -1.0 - im * 1.0, zur = 1.0 + im * 1.0, m = 800, n = 800)
